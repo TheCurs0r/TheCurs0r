@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheCurs0r
+- 👀 I’m interested in hacking  programming in html Python and C#
+- 🌱 I’m currently learning C++ and App-development 
+- 💞️ I look forward to working with other people and creating new things asu a bit of code
+- 📫 How to reach me: curs0r9456@gmail.com
